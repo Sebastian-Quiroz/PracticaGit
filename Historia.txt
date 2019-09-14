@@ -1,3 +1,7 @@
 SEgundo Archivo de prueba para practicar
 en git
 ESte es el segundo cambio de este archivo
+
+Acabamos de usar git Reset --hard y resetuio de manera dura 
+los cambios y nos devilvio al id que elegimos, 
+eliminando todos los cambios
