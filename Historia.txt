@@ -9,3 +9,6 @@ eliminando todos los cambios
 Estamos ya iniciando un 
 blog en html para practicar de manera correcta
 con el contro de versiones (Git)
+
+Probando el uso de "git reset HEAD" para sacar un archivo
+que este en staging para no subirlo al commit
