@@ -12,3 +12,6 @@ con el contro de versiones (Git)
 
 Probando el uso de "git reset HEAD" para sacar un archivo
 que este en staging para no subirlo al commit
+
+Rebase:
+1.Master 1
