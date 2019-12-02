@@ -15,8 +15,12 @@ que este en staging para no subirlo al commit
 
 Rebase:
 1.Master 1
+<<<<<<< HEAD
 
 
 
 2.Experimento 1
 3.Experimento 2
+=======
+4.Master 2
+>>>>>>> 43481942fffb2ddf0d6b3a9cc5f530f43375f45c
