@@ -1,0 +1,23 @@
+SEgundo Archivo de prueba para practicar
+en git
+ESte es el segundo cambio de este archivo
+
+Acabamos de usar git Reset --hard y resetuio de manera dura 
+los cambios y nos devilvio al id que elegimos, 
+eliminando todos los cambios
+
+Estamos ya iniciando un 
+blog en html para practicar de manera correcta
+con el contro de versiones (Git)
+
+Probando el uso de "git reset HEAD" para sacar un archivo
+que este en staging para no subirlo al commit
+
+Rebase:
+1.Master 1
+
+
+
+2.Experimento 1
+3.Experimento 2
+4.Master 2
